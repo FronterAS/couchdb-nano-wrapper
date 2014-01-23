@@ -1,0 +1,24 @@
+{
+  "name": "couchdb-nano-wrapper",
+  "version": "0.0.0",
+  "description": "A high level promise based module to add a layer of syntactic sugar to the nano couchdb module.",
+  "main": "couchdb-nano-wrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FronterAS/couchdb-nano-wrapper.git"
+  },
+  "keywords": [
+    "nano",
+    "couchdb",
+    "nodejs",
+    "q"
+  ],
+  "author": "Fronter AS",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/FronterAS/couchdb-nano-wrapper/issues"
+  }
+}
