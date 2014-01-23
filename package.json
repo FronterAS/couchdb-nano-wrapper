@@ -20,5 +20,9 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/FronterAS/couchdb-nano-wrapper/issues"
+  },
+  "dependencies": {
+    "nano": "~4.4.0",
+    "q": "~1.0.0"
   }
 }
