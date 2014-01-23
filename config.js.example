@@ -1,0 +1,5 @@
+module.exports = {
+    "db": {
+        "url": "http://localhost:5984"
+    }
+};
